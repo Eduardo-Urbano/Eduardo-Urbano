@@ -47,7 +47,9 @@ Sou estudante de Desenvolvimento de Software, apaixonado por **desenvolvimento f
 
 <h2 align="center"> 📫 Contato</h2>
 
-- LinkedIn: [eduardo-urbano](https://www.linkedin.com/in/edu-urbano/)  
+- LinkedIn: <a href="https://www.linkedin.com/in/edu-urbano/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
 - E-mail: eduardosurbano004@gmail.com  
 
 ---
