@@ -62,4 +62,4 @@
 
 ---
 
-*Profile README focado em frontend, atualizado continuamente à medida que novos projetos e habilidades são desenvolvidos.*
+*Profile README atualizado continuamente à medida que novos projetos e habilidades são desenvolvidos.*
