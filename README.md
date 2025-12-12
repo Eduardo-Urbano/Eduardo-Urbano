@@ -17,14 +17,18 @@
 
 ---
 
-<h2 align="center"> 💻 Tecnologias que utilizo no back</h2>
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" hspace="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40" hspace="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="40" height="40" hspace="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40" hspace="10" />
-</div>
+<p align="center">
+  <img
+    height="180" style="margin-right: 15px;"
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Eduardo-Urbano&show_icons=true&theme=dark&card_width=400"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Eduardo-Urbano&layout=compact&theme=dark&card_width=350"
+  />
+</p>
 
 ---
 
