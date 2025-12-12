@@ -40,11 +40,11 @@
 
 <p align="center">
   <img
-    height="180"
+    height="180" style="margin-right: 10px;"
     src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Eduardo-Urbano&show_icons=true&theme=dark"
   />
   <img
-    height="180"
+    height="200"
     src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Eduardo-Urbano&layout=compact&theme=dark"
   />
 </p>
