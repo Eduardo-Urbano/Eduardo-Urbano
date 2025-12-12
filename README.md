@@ -47,11 +47,16 @@ Sou estudante de Desenvolvimento de Software, apaixonado por **desenvolvimento f
 
 <h2 align="center"> 📫 Contato</h2>
 
-- LinkedIn: <a href="https://www.linkedin.com/in/edu-urbano/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-</a>
-- E-mail: eduardosurbano004@gmail.com  
-
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/edu-urbano/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" title="Linkedin" width="40" height="40" hspace="10" />
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;
+  
+  <a href="eduardosurbano004@gmail.com ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="E-mail" title="E-mail" width="40" height="40" hspace="10"  />
+  </a>
+</div>
 
 *Profile README focado em frontend, atualizado continuamente à medida que novos projetos e habilidades são desenvolvidos.*
