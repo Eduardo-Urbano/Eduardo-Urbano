@@ -36,16 +36,17 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Eduardo-Urbano&show_icons=true&theme=dark" />
-</p>
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Eduardo-Urbano&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Eduardo-Urbano&theme=dark" />
+  <img
+    height="180"
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Eduardo-Urbano&show_icons=true&theme=dark"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Eduardo-Urbano&layout=compact&theme=dark"
+  />
 </p>
 
 ---
