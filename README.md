@@ -50,9 +50,15 @@
 
 <h2 align="center"> 📫 Contato</h2>
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />](https://www.linkedin.com/in/edu-urbano/)
-&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" />](mailto:eduardosurbano004@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/edu-urbano/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:eduardosurbano004@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="E-mail" title="E-mail" width="40" height="40" />
+  </a>
+</p>
 
 ---
 
