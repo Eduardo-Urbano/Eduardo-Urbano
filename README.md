@@ -37,10 +37,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eduardo-Urbano&color=blue" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Eduardo-Urbano&show_icons=true&theme=dark" />
 </p>
 
