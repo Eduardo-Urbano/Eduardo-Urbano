@@ -40,11 +40,11 @@
 
 <ul>
   <li>
-    <a href="https://github.com/Giovanni-Franca/Tostao-Bank"><strong>Tostão Bank</strong></a>
+    <a href="https://github.com/Giovanni-Franca/Tostao-Bank" target="_blank"><strong>Tostão Bank</strong></a>
     – Sistema bancário fictício com cadastro, transferências e dashboard simples em HTML, CSS e PHP.
   </li>
   <li>
-    <a href="https://github.com/Eduardo-Urbano/LinguRemi"><strong>LinguRémi</strong></a>
+    <a href="https://github.com/Eduardo-Urbano/LinguRemi" target="_blank"><strong>LinguRémi</strong></a>
     – Projeto de uma doceria gourmet fictícia, com Front em TypeScript e Tailwind, e Back em Java/Spring Boot.
   </li>
 </ul>
@@ -56,12 +56,12 @@
 <h2 align="center"> 📫 Contato</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/edu-urbano/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" title="Linkedin" width="40" height="40" hspace="15" />
+  <a href="https://www.linkedin.com/in/edu-urbano/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" title="Linkedin" width="40" height="40" hspace="15"/>
   </a>
   
-  <a href="eduardosurbano004@gmail.com ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="E-mail" title="E-mail" width="40" height="40" hspace="15"  />
+  <a href="eduardosurbano004@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="E-mail" title="E-mail" width="40" height="40" hspace="15"/>
   </a>
 </div>
 
