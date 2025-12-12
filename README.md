@@ -1,10 +1,10 @@
-# Olá, eu sou Eduardo 👋
+<h1 align="center" >Olá, eu sou Eduardo 👋</h1>
 
 Sou estudante de Desenvolvimento de Software, apaixonado por **desenvolvimento frontend**. Atualmente focando em projetos com **HTML, Tailwind, TypeScript e React**, buscando aprender na prática e evoluir como desenvolvedor.
 
 ---
 
-## 💻 Tecnologias que utilizo no Front
+<h2 align="center"> 💻 Tecnologias que utilizo no Front</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" hspace="10" />
@@ -17,7 +17,7 @@ Sou estudante de Desenvolvimento de Software, apaixonado por **desenvolvimento f
 
 ---
 
-## 💻 Tecnologias que utilizo no back
+<h2 align="center"> 💻 Tecnologias que utilizo no back</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" hspace="10" />
@@ -28,9 +28,7 @@ Sou estudante de Desenvolvimento de Software, apaixonado por **desenvolvimento f
 
 ---
 
----
-
-## 🗄️ Banco de Dados
+<h2 align="center"> 🗄️ Banco de Dados</h2>
 
 <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" hspace="10" />
@@ -38,7 +36,7 @@ Sou estudante de Desenvolvimento de Software, apaixonado por **desenvolvimento f
 
 ---
 
-## 🚀 Projetos Principais
+<h2 align="center"> 🚀 Projetos Principais</h2>
 
 - **[Tostão Bank](https://github.com/Giovanni-Franca/Tostao-Bank)** – Sistema bancário fictício com cadastro, transferências e dashboard simples em HTML, CSS e PHP.  
 - **[LinguRémi](https://github.com/Eduardo-Urbano/LinguRemi)** – Projeto de uma doceria gourmet fictícia, com Front desenvolvido em TypeScript e Tailwind, e Back em Java/Spring Boot.  
@@ -47,7 +45,7 @@ Sou estudante de Desenvolvimento de Software, apaixonado por **desenvolvimento f
 
 ---
 
-## 📫 Contato
+<h2 align="center"> 📫 Contato</h2>
 
 - LinkedIn: [eduardo-urbano](https://www.linkedin.com/in/edu-urbano/)  
 - E-mail: eduardosurbano004@gmail.com  
