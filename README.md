@@ -1,6 +1,6 @@
 <h1 align="center" >Olá, eu sou Eduardo 👋</h1>
 
-Sou estudante de Desenvolvimento de Software, apaixonado por **desenvolvimento frontend**. Atualmente focando em projetos com **HTML, Tailwind, TypeScript e React**, buscando aprender na prática e evoluir como desenvolvedor.
+<p align="center">Desenvolvedor Full Stack em formação, com foco principal em desenvolvimento frontend. Trabalho com HTML, Tailwind, TypeScript e React no front-end e utilizo PHP, Java (Spring Boot), Node.js e MySQL no back-end. Atualmente busco evoluir através de projetos práticos, explorando tanto a parte visual quanto a lógica e integração entre sistemas.</p>
 
 ---
 
@@ -38,11 +38,18 @@ Sou estudante de Desenvolvimento de Software, apaixonado por **desenvolvimento f
 
 <h2 align="center"> 🚀 Projetos Principais</h2>
 
-- **[Tostão Bank](https://github.com/Giovanni-Franca/Tostao-Bank)** – Sistema bancário fictício com cadastro, transferências e dashboard simples em HTML, CSS e PHP.  
-- **[LinguRémi](https://github.com/Eduardo-Urbano/LinguRemi)** – Projeto de uma doceria gourmet fictícia, com Front desenvolvido em TypeScript e Tailwind, e Back em Java/Spring Boot.  
+<ul>
+  <li>
+    <a href="https://github.com/Giovanni-Franca/Tostao-Bank"><strong>Tostão Bank</strong></a>
+    – Sistema bancário fictício com cadastro, transferências e dashboard simples em HTML, CSS e PHP.
+  </li>
+  <li>
+    <a href="https://github.com/Eduardo-Urbano/LinguRemi"><strong>LinguRémi</strong></a>
+    – Projeto de uma doceria gourmet fictícia, com Front em TypeScript e Tailwind, e Back em Java/Spring Boot.
+  </li>
+</ul>
 
-> Mais projetos em andamento serão adicionados conforme eu desenvolver novas aplicações.
-
+<p>Mais projetos em andamento serão adicionados conforme eu desenvolver novas aplicações.</p>
 ---
 
 <h2 align="center"> 📫 Contato</h2>
@@ -51,8 +58,6 @@ Sou estudante de Desenvolvimento de Software, apaixonado por **desenvolvimento f
   <a href="https://www.linkedin.com/in/edu-urbano/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" title="Linkedin" width="40" height="40" hspace="10" />
   </a>
-  
-  &nbsp;&nbsp;&nbsp;
   
   <a href="eduardosurbano004@gmail.com ">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="E-mail" title="E-mail" width="40" height="40" hspace="10"  />
