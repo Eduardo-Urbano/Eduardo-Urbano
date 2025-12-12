@@ -37,24 +37,19 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eduardo-Urbano&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Eduardo-Urbano&color=blue" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Urbano&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Eduardo-Urbano&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Urbano&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Eduardo-Urbano&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Eduardo-Urbano&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-Urbano&theme=dark" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Eduardo-Urbano&theme=dark" alt="contribs" />
+  <img src="https://streak-stats.demolab.com/?user=Eduardo-Urbano&theme=dark" />
 </p>
 
 ---
