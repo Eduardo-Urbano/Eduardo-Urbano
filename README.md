@@ -1,4 +1,4 @@
-<h1 align="center" >Olá, eu sou Eduardo 👋</h1>
+<h1 align="center" >Olá, eu sou Eduardo 🖖</h1>
 
 <p align="center">Desenvolvedor Full Stack em formação, com foco principal em desenvolvimento frontend. Trabalho com HTML, Tailwind, TypeScript e React no front-end e utilizo PHP, Java (Spring Boot), Node.js e MySQL no back-end. Atualmente busco evoluir através de projetos práticos, explorando tanto a parte visual quanto a lógica e integração entre sistemas.</p>
 
