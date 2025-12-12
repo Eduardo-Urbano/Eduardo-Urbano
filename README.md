@@ -28,6 +28,16 @@ Sou estudante de Desenvolvimento de Software, apaixonado por **desenvolvimento f
 
 ---
 
+---
+
+## 🗄️ Banco de Dados
+
+<div align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" hspace="10" />
+</div>
+
+---
+
 ## 🚀 Projetos Principais
 
 - **[Tostão Bank](https://github.com/Giovanni-Franca/Tostao-Bank)** – Sistema bancário fictício com cadastro, transferências e dashboard simples em HTML, CSS e PHP.  
