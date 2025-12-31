@@ -41,9 +41,12 @@
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Eduardo-Urbano&show_icons=true&theme=dark&card_width=400"
+    src="https://github-readme-stats.vercel.app/api?username=Eduardo-Urbano&show_icons=true&theme=dark&cache_seconds=86400"
   />
-  <img height="180" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Eduardo-Urbano&layout=compact&theme=dark&card_width=300" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Urbano&layout=compact&theme=dark&cache_seconds=86400"
+  />
 </p>
 
 ---
@@ -56,7 +59,7 @@
 - [**LinguRémi**](https://github.com/Eduardo-Urbano/LinguRemi)  
   Doceria gourmet com Front em TypeScript/Tailwind e Back em Spring Boot.
 
-- [**Agenda do Aluno**](https://github.com/JarJv/agenda-do-aluno)
+- [**Agenda do Aluno**](https://github.com/JarJv/agenda-do-aluno)  
   Agenda para o aluno poder ter um planejamento próprio com base em sua frequência.
 
 <p>Mais projetos em andamento serão adicionados conforme eu desenvolver novas aplicações.</p>
