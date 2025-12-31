@@ -56,6 +56,9 @@
 - [**LinguRémi**](https://github.com/Eduardo-Urbano/LinguRemi)  
   Doceria gourmet com Front em TypeScript/Tailwind e Back em Spring Boot.
 
+- [**Agenda do Aluno**](https://github.com/JarJv/agenda-do-aluno)
+  Agenda para o aluno poder ter um planejamento próprio com base em sua frequência.
+
 <p>Mais projetos em andamento serão adicionados conforme eu desenvolver novas aplicações.</p>
 
 ---
