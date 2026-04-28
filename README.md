@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Eduardo 🖖</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack em formação, com foco principal em desenvolvimento frontend. Trabalho com HTML, Tailwind, TypeScript e React no front-end e utilizo PHP, Java (Spring Boot), Node.js e MySQL no back-end. Atualmente busco evoluir através de projetos práticos, explorando tanto a parte visual quanto a lógica e integração entre sistemas.
+  Desenvolvedor Full Stack em formação, com foco principal em desenvolvimento front-end e construção de aplicações web modernas. Trabalho com React, TypeScript e Tailwind CSS no desenvolvimento de interfaces, além de experiência prática com PHP, Laravel, Java (Spring Boot) e Node.js no back-end. Atuo em projetos voltados à integração de sistemas, usabilidade, arquitetura e evolução contínua de soluções completas.
 </p>
 
 ---
@@ -25,7 +25,7 @@
 <h2 align="center">🗄️ Banco de Dados</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Banco de Dados" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Banco de Dados" />
 </p>
 
 ---
@@ -51,18 +51,18 @@
   Página de e-commerce desenvolvida em React, TypeScript e SCSS, com vitrine dinâmica, carrossel, modal interativo e foco em componentização.
 
 - [**Laravel News API**](https://github.com/Eduardo-Urbano/laravel-news-api)  
-  API REST desenvolvida com Laravel para gerenciamento e consumo de notícias, aplicando rotas, controllers, organização back-end e integração com banco de dados.
+  API REST com autenticação, controle de acesso e gerenciamento de conteúdo utilizando Laravel, Sanctum e arquitetura organizada.
 
 - [**LinguRémi**](https://github.com/Eduardo-Urbano/LinguRemi)  
   Projeto de doceria gourmet com front-end em TypeScript/Tailwind e back-end em Spring Boot.
 
 - [**Tostão Bank**](https://github.com/Giovanni-Franca/Tostao-Bank)  
-  Sistema bancário fictício com cadastro, transferências e dashboard simples.
+  Sistema bancário fictício com integração full stack, cadastro, transferências e evolução arquitetural.
 
 - [**Agenda do Aluno**](https://github.com/JarJv/agenda-do-aluno)  
   Agenda para planejamento estudantil com foco em organização de tarefas e frequência.
 <p>
-  Mais projetos em andamento serão adicionados conforme eu desenvolver novas aplicações.
+  Novos projetos serão adicionados continuamente conforme evolução técnica e desenvolvimento de soluções mais robustas.
 </p>
 
 ---
