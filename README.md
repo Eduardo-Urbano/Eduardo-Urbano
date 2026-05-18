@@ -1,88 +1,82 @@
-<h1 align="center">Olá, eu sou Eduardo 🖖</h1>
+<h1 align="center">Hi, I'm Eduardo 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack em formação, com foco principal em desenvolvimento front-end e construção de aplicações web modernas. Trabalho com React, TypeScript e Tailwind CSS no desenvolvimento de interfaces, além de experiência prática com PHP, Laravel, Java (Spring Boot) e Node.js no back-end. Atuo em projetos voltados à integração de sistemas, usabilidade, arquitetura e evolução contínua de soluções completas.
+  Backend-focused developer currently studying Software Development at Fatec Mauá.
+  <br/>
+  I have hands-on experience building REST APIs, integrating systems, and developing modern web applications using Java, Spring Boot, PostgreSQL, Docker, PHP, and Laravel.
+  <br/>
+  I also work with React, TypeScript, and modern frontend technologies, allowing me to build complete full stack solutions.
 </p>
 
 ---
 
-<h2 align="center">💻 Tecnologias que utilizo no Front</h2>
+<h2 align="center">⚙️ Backend Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Tecnologias Front-end" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,docker" />
 </p>
 
 ---
 
-<h2 align="center">💻 Tecnologias que utilizo no Back</h2>
+<h2 align="center">🎨 Frontend Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,php,laravel,docker" alt="Tecnologias Back-end" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,html,css" />
 </p>
 
 ---
 
-<h2 align="center">🗄️ Banco de Dados</h2>
+<h2 align="center">🗄️ Databases</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Banco de Dados" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
 ---
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Eduardo-Urbano&show_icons=true&theme=dark&cache_seconds=86400"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Urbano&layout=compact&theme=dark&cache_seconds=86400"
+    height="170"
+    src="https://streak-stats.demolab.com?user=Eduardo-Urbano&theme=tokyonight&hide_border=true"
   />
 </p>
 
 ---
 
-<h2 align="center">🚀 Projetos Principais</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
-- [**Teste Front-End Econverse**](https://github.com/Eduardo-Urbano/teste-front-end)  
-  Página de e-commerce desenvolvida em React, TypeScript e SCSS, com vitrine dinâmica, carrossel, modal interativo e foco em componentização.
+### 🔹 LinguRémi
+Full stack gourmet dessert platform with React/TypeScript frontend and Java Spring Boot backend.
 
-- [**Laravel News API**](https://github.com/Eduardo-Urbano/laravel-news-api)  
-  API REST com autenticação, controle de acesso e gerenciamento de conteúdo utilizando Laravel, Sanctum e arquitetura organizada.
+### 🔹 Tostão Bank
+Educational banking system featuring authentication, transfers, integrations, and backend modernization using Java and Spring Boot.
 
-- [**LinguRémi**](https://github.com/Eduardo-Urbano/LinguRemi)  
-  Projeto de doceria gourmet com front-end em TypeScript/Tailwind e back-end em Spring Boot.
+### 🔹 Laravel News API
+REST API built with Laravel and Sanctum, including authentication, role-based access control, and content management.
 
-- [**Tostão Bank**](https://github.com/Giovanni-Franca/Tostao-Bank)  
-  Sistema bancário fictício com integração full stack, cadastro, transferências e evolução arquitetural.
+### 🔹 Agenda do Aluno
+Educational organization platform focused on task management, API integration, and responsive UI development.
 
-- [**Agenda do Aluno**](https://github.com/JarJv/agenda-do-aluno)  
-  Agenda para planejamento estudantil com foco em organização de tarefas e frequência.
-<p>
-  Novos projetos serão adicionados continuamente conforme evolução técnica e desenvolvimento de soluções mais robustas.
-</p>
-
----
-
-<h2 align="center">📫 Contato</h2>
+### 🔹 Econverse Front-End Test
+E-commerce interface built with React, TypeScript, and SCSS, focused on componentization and responsive UI.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edu-urbano/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:eduardosurbano004@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://devurban.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  New projects will continue to be added as I improve my technical skills and build more robust solutions.
 </p>
 
 ---
 
-*Profile README atualizado continuamente à medida que novos projetos e habilidades são desenvolvidos.*
+<h2 align="center">📫 Contato</h2> 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/edu-urbano/"> <img src="https://skillicons.dev/icons?i=linkedin" height="48" /> </a> &nbsp;&nbsp; 
+  <a href="mailto:eduardosurbano004@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="48" /> </a> &nbsp;&nbsp;
+  <a href="https://devurban.vercel.app/"> <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> 
+</p>
+
+---
+
+<p align="center">
+  <i>This profile README is continuously updated as new projects and skills are developed.</i>
+</p>
